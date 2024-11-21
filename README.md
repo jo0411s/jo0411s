@@ -9,11 +9,22 @@
  
 
 
-👋 Welcome! I am Minjeong, a first-year student at Chung-Ang University's Department of Art and Technology.
-
 </div>
 
 ---
+## 👋 introduction
+Hello! I am Minjeong Jo, Welcome to my profile! 
+
+-a first-year student at Chung-Ang University's Department of Art and Technology.
+-I like drawing and games.
+-I am very interested in game planning and production. I would like to have a job in a related field in the future.
+
+### 🚀 My Goals  
+I aim to:  
+1. Build a team by meeting people who share the same goals. 
+2. Improve programming skills
+3. Creating an indie game.
+
 
 ## 🛠️ Tech Stack
 
@@ -27,13 +38,6 @@
 
 ### [🌟 Youtube](https://youtube.com/channel/UCyAD_9F8vwsO40OHKQnltZQ?si=mgn5-Q1oePM7w4Hp)  
  
----
-
-## 🚀 My Goals  
-I aim to:  
-1. Contribute to **open-source projects** that make an impact.  
-2. Continuously improve my skills in **cloud technologies**.  
-3. Collaborate with other developers to build meaningful solutions.  
 
 ---
 
