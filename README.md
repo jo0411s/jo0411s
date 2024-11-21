@@ -16,18 +16,14 @@
 
 ### Languages  
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
--I'm still learning so I'm very immature. I would like to learn more diverse languages ​​in depth in the future.
+✏️I'm still learning so I'm very immature. I would like to learn more diverse languages ​​in depth in the future.
 
 ---
 
 ## 💻 Projects
 
-### [🌟 Taskify](https://github.com/alex-dev/taskify)  
-
-
-### [🎨 Portfolio Creator](https://github.com/alex-dev/portfolio-creator)  
-
-
+### [🌟 Youtube](https://youtube.com/channel/UCyAD_9F8vwsO40OHKQnltZQ?si=mgn5-Q1oePM7w4Hp)  
+ 
 ---
 
 ## 🚀 My Goals  
@@ -39,15 +35,15 @@ I aim to:
 ---
 
 ## 📊 GitHub Stats  
-![Alex's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alex-dev&show_icons=true&theme=radical)  
+![Minjeong's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alex-dev&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alex-dev&layout=compact&theme=radical)
 
 ---
 
-## 🤝 Let's Connect!  
-📧 **Email**: alex.dev@example.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/alex-dev)  
-💬 I'm open to **collaboration** and exciting projects!  
+## 🤝 Connect  
+📧 **Email**: jmj7638s@gmail.com 
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:jmj7638s@gmail.com)
+ 
 
 ---
 
