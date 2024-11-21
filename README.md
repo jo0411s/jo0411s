@@ -18,6 +18,7 @@
 </div>
 
 ---
+
 ## 👋 introduction
 Hello! I am Minjeong Jo, Welcome to my profile! 
 
@@ -29,6 +30,8 @@ Hello! I am Minjeong Jo, Welcome to my profile!
 
 
 <br>
+
+---
 
 ## 🚀 My Goals  
 I aim to:  
