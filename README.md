@@ -65,7 +65,7 @@ I aim to:
 ---
 
 ## 📊 GitHub Stats  
-![Minjeong's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jo0411s) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jo0411s&layout=compact&theme=radical)
+![Minjeong's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jo0411s) [![Minjeong's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jo0411s&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/jo0411s)
 
 ---
 
