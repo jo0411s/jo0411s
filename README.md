@@ -21,6 +21,10 @@ Hello! I am Minjeong Jo, Welcome to my profile!
 ● My hobbies are drawing, writing, and playing games.<br>
 ● I am interested in game planning and production. I would like to have a job in a related field in the future.<br>
 
+<div align=right>
+![인물1 2](https://github.com/user-attachments/assets/3e13fe75-ea46-4b06-86df-1a9399f6660e)
+</div>
+
 <br>
 
 ## 🚀 My Goals  
