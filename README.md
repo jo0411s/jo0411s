@@ -35,7 +35,8 @@ I aim to:
 ---
 
 ## 📊 GitHub Stats  
-![Minjeong's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jo0411s)]
+![Minjeong's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jo0411s)
+<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jo0411s&layout=compact&theme=radical)
 
 ---
@@ -46,9 +47,7 @@ I aim to:
  
 ---
 
-## 💡 Collaborate With Me!  
-- Check out my projects and feel free to raise issues or suggest features!  
-- 🌟 Don't forget to **star** the repositories you like!  
+ 
 
 <!--
 **jo0411s/jo0411s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
