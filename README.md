@@ -64,8 +64,8 @@ I aim to:
 ## 🤝 Connect  
 <br>[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:jmj7638s@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/red_mushroom88)
 <br>
-During my college years, I would like to meet students who share the same goals and form a team to create games together!<br>
-If you would like to join us, please contact us anytime!
+📌During my college years, I would like to meet students who share the same goals and form a team to create games together!<br>
+📌If you would like to join us, please contact us anytime!
 
 ---
 
