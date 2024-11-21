@@ -42,11 +42,13 @@ I aim to:
 
 ## 🛠️ Tech Stack
 
+✏️I'm still learning so I'm very immature. I would like to learn more diverse languages ​​in depth in the future.
+<br>
+
 ### Languages  
 [![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)  [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/) [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://www.javascript.com/)<br>
 <br>
-✏️I'm still learning so I'm very immature. I would like to learn more diverse languages ​​in depth in the future.
-<br>
+
 ### Other Programs
 [![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white)](https://www.adobe.com/products/photoshop.html#modal-hash) [![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat&logo=adobeillustrator&logoColor=white)](https://www.adobe.com/products/illustrator.html#modal-hash) [![Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-9999FF?style=flat&logo=adobepremierepro&logoColor=white)](https://www.adobe.com/products/premiere.html#modal-hash) [![Maya](https://img.shields.io/badge/Maya-00C7B7?style=flat&logo=autodesk&logoColor=white)](https://www.autodesk.com/au/products/maya/overview?term=1-YEAR&tab=subscription) [![Clip Studio](https://img.shields.io/badge/Clip%20Studio-13C2C2?style=flat&logo=none&logoColor=white)](https://www.clipstudio.net/kr/)
 
