@@ -12,31 +12,23 @@
 
 ---
 
-## 🛠️ My Tech Stack
+## 🛠️ Tech Stack
 
 ### Languages  
-- **Frontend**: ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
-- **Backend**: ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+- ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)  
 
-### Frameworks and Libraries  
-- **React.js** ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)  
-- **Express.js**  
-- **Database**: MongoDB, PostgreSQL  
+- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
+-I'm still learning so I'm very immature. I would like to learn more diverse languages ​​in depth in the future.
 
 ---
 
-## 💻 Projects I've Built
+## 💻 Projects
 
 ### [🌟 Taskify](https://github.com/alex-dev/taskify)  
-A modern task management application for teams.  
-- Built using **React.js**, **Node.js**, and **MongoDB**.  
-- Features real-time collaboration and notifications.  
-- [Live Demo](https://taskify-demo.com)
+
 
 ### [🎨 Portfolio Creator](https://github.com/alex-dev/portfolio-creator)  
-A drag-and-drop portfolio builder for developers.  
-- Fully responsive and user-friendly.  
-- Integrated with **Firebase** for seamless hosting.  
+
 
 ---
 
