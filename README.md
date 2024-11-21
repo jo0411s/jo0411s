@@ -5,7 +5,8 @@
 </div>
 
 ## CAU Art & Tech
-
+First-year art & Technology major. 
+It was written for the purpose of an open source programming assignment.
 
 <!--
 **jo0411s/jo0411s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
