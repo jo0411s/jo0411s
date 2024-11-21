@@ -17,7 +17,8 @@ Hello! I am Minjeong Jo, Welcome to my profile!
 
 ● from Korea.<br>
 ● a first-year student at Chung-Ang University's Department of Art and Technology.<br>
-● I like drawing and games.<br>
+● I am a student who has many things I like and want to do.<br>
+● My hobbies are drawing, writing, and playing games.<br>
 ● I am interested in game planning and production. I would like to have a job in a related field in the future.<br>
 
 <br>
@@ -39,9 +40,6 @@ I aim to:
 <br>
 ### Other Programs
 [![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white)](https://www.adobe.com/products/photoshop.html#modal-hash) [![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat&logo=adobeillustrator&logoColor=white)](https://www.adobe.com/products/illustrator.html#modal-hash) [![Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-9999FF?style=flat&logo=adobepremierepro&logoColor=white)](https://www.adobe.com/products/premiere.html#modal-hash) [![Maya](https://img.shields.io/badge/Maya-00C7B7?style=flat&logo=autodesk&logoColor=white)](https://www.autodesk.com/au/products/maya/overview?term=1-YEAR&tab=subscription) [![Clip Studio](https://img.shields.io/badge/Clip%20Studio-13C2C2?style=flat&logo=none&logoColor=white)](https://www.clipstudio.net/kr/)
-
-
-
 
 
 ---
