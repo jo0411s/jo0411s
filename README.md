@@ -11,6 +11,8 @@
 <br>
 (It was written for the purpose of an open source programming assignment.)
 
+  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jmj7638s@gmail.com)](mailto:jmj7638s@gmail.com)
+
 <!--
 **jo0411s/jo0411s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
