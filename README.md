@@ -25,7 +25,7 @@ Hello! I am Minjeong Jo, Welcome to my profile!
 ● I am from Korea.<br>
 ● a first-year student at Chung-Ang University's Department of Art and Technology.<br>
 ● I am a student who has many things I like and want to do.<br>
-●I am learning various programs and programming languages ​​at school.<br>
+● I am learning various programs and programming languages ​​at school.<br>
 ● My hobbies are drawing, writing, and playing games.<br>
 ● I am interested in game planning and production. I would like to have a job in a related field in the future.<br>
 
