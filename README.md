@@ -22,7 +22,9 @@ Hello! I am Minjeong Jo, Welcome to my profile!
 ● I am interested in game planning and production. I would like to have a job in a related field in the future.<br>
 
 <div align=right>
+ 
 ![person](https://github.com/user-attachments/assets/72bc6904-6fa6-4d37-bc1e-036e6490208e)
+
 </div>
 
 <br>
