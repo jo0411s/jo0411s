@@ -35,25 +35,20 @@ I aim to:
 ---
 
 ## 📊 GitHub Stats  
-![Minjeong's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alex-dev&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alex-dev&layout=compact&theme=radical)
+![Minjeong's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jo0411s)](https://github.com/jo0411s/github-readme-stats)
+
 
 ---
 
 ## 🤝 Connect  
 📧 **Email**: jmj7638s@gmail.com 
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:jmj7638s@gmail.com)
+<br>[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:jmj7638s@gmail.com)
  
-
 ---
 
 ## 💡 Collaborate With Me!  
 - Check out my projects and feel free to raise issues or suggest features!  
 - 🌟 Don't forget to **star** the repositories you like!  
-
-
-
-  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jmj7638s@gmail.com)](mailto:jmj7638s@gmail.com)
 
 <!--
 **jo0411s/jo0411s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
