@@ -4,7 +4,8 @@
 
 </div>
 
-## Hi there 👋
+## CAU Art & Tech
+
 
 <!--
 **jo0411s/jo0411s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
