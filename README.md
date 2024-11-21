@@ -62,8 +62,9 @@ I aim to:
 ---
 
 ## 🤝 Connect  
-📧 **Email**: jmj7638s@gmail.com 
 <br>[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:jmj7638s@gmail.com)
+<br>[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/red_mushroom88)
+
  
 ---
 
