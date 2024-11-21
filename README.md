@@ -6,7 +6,7 @@
 
 # 🌟 Hello, I'm Minjeong Jo! 🌟
 
-![Profile Banner](https://via.placeholder.com/800x200?text=Welcome+to+my+GitHub)
+![banner](https://github.com/user-attachments/assets/43f9a7a3-8deb-4c27-b086-2a7f95123f2e)
 
 👋 Welcome! I am Minjeong, a first-year student at Chung-Ang University's Department of Art and Technology.
 
