@@ -4,6 +4,7 @@
 
 ![banner](https://github.com/user-attachments/assets/43f9a7a3-8deb-4c27-b086-2a7f95123f2e)
 
+<img src="https://github.com/user-attachments/assets/72bc6904-6fa6-4d37-bc1e-036e6490208e" width="100">
  
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjo0411s%2Fjo0411s.git&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
  
@@ -15,17 +16,12 @@
 ## 👋 introduction
 Hello! I am Minjeong Jo, Welcome to my profile! 
 
-<span>
- 
-<img src="https://github.com/user-attachments/assets/72bc6904-6fa6-4d37-bc1e-036e6490208e" width="100">
-
 ● from Korea.<br>
 ● a first-year student at Chung-Ang University's Department of Art and Technology.<br>
 ● I am a student who has many things I like and want to do.<br>
 ● My hobbies are drawing, writing, and playing games.<br>
 ● I am interested in game planning and production. I would like to have a job in a related field in the future.<br>
 
-</span>
 
 <br>
 
