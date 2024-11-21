@@ -17,7 +17,7 @@ Hello! I am Minjeong Jo, Welcome to my profile!
 
 <span>
  
-<img src="https://github.com/user-attachments/assets/72bc6904-6fa6-4d37-bc1e-036e6490208e" width="300">
+<img src="https://github.com/user-attachments/assets/72bc6904-6fa6-4d37-bc1e-036e6490208e" width="100">
 
 ● from Korea.<br>
 ● a first-year student at Chung-Ang University's Department of Art and Technology.<br>
