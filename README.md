@@ -5,6 +5,8 @@
 </div>
 
 ## CAU Art & Tech
+● Minjeong Jo(jo0411s)
+<br>
 ● First-year art & Technology major. 
 <br>
 (It was written for the purpose of an open source programming assignment.)
