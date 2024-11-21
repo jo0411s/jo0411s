@@ -23,7 +23,7 @@ Hello! I am Minjeong Jo, Welcome to my profile!
 
 <div align=right>
  
-![person](https://github.com/user-attachments/assets/72bc6904-6fa6-4d37-bc1e-036e6490208e){: width="50" height="50"}
+![person](https://github.com/user-attachments/assets/72bc6904-6fa6-4d37-bc1e-036e6490208e){: width="50px" height="50px"}
 
 
 </div>
