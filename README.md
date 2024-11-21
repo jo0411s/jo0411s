@@ -15,17 +15,17 @@
 ## 👋 introduction
 Hello! I am Minjeong Jo, Welcome to my profile! 
 
-●a first-year student at Chung-Ang University's Department of Art and Technology.<br>
-●I like drawing and games.<br>
-●I am very interested in game planning and production. I would like to have a job in a related field in the future.<br>
+● a first-year student at Chung-Ang University's Department of Art and Technology.<br>
+● I like drawing and games.<br>
+● I am very interested in game planning and production. I would like to have a job in a related field in the future.<br>
 
 ---
 
 ## 🚀 My Goals  
 I aim to:  
-● Build a team by meeting people who share the same goals. 
-● Improve programming skills
-● Creating an indie game.
+● Build a team by meeting people who share the same goals.<br>
+● Improve programming skills.<br>
+● Creating an indie game.<br>
 
 ---
 
@@ -46,6 +46,7 @@ I aim to:
 
 ## 📊 GitHub Stats  
 ![Minjeong's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jo0411s)
+<br>
 <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jo0411s&layout=compact&theme=radical)
 
