@@ -5,6 +5,7 @@
 </div>
 
 ## CAU Art & Tech
+https://artech.cau.ac.kr/
 ● Minjeong Jo(jo0411s)
 <br>
 ● First-year art & Technology major. 
