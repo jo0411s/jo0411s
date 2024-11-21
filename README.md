@@ -6,6 +6,7 @@
 
 ## CAU Art & Tech
 First-year art & Technology major. 
+<br>
 It was written for the purpose of an open source programming assignment.
 
 <!--
