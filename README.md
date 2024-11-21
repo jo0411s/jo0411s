@@ -19,10 +19,11 @@ Hello! I am Minjeong Jo, Welcome to my profile!
 ● I like drawing and games.<br>
 ● I am very interested in game planning and production. I would like to have a job in a related field in the future.<br>
 
----
+<br>
 
 ## 🚀 My Goals  
 I aim to:  
+<br>
 ● Build a team by meeting people who share the same goals.<br>
 ● Improve programming skills.<br>
 ● Creating an indie game.<br>
