@@ -15,21 +15,17 @@
 ## 👋 introduction
 Hello! I am Minjeong Jo, Welcome to my profile! 
 
+<img src="https://github.com/user-attachments/assets/72bc6904-6fa6-4d37-bc1e-036e6490208e" width="300">
 
-<div align=right>
+<p>
  
-<img src="https://github.com/user-attachments/assets/72bc6904-6fa6-4d37-bc1e-036e6490208e" width="100">
-
-</div>
-
-<div align=left>
 ● from Korea.<br>
 ● a first-year student at Chung-Ang University's Department of Art and Technology.<br>
 ● I am a student who has many things I like and want to do.<br>
 ● My hobbies are drawing, writing, and playing games.<br>
 ● I am interested in game planning and production. I would like to have a job in a related field in the future.<br>
- 
-</div>
+
+</p>
 
 <br>
 
