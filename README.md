@@ -28,9 +28,6 @@ Hello! I am Minjeong Jo, Welcome to my profile!
 ● My hobbies are drawing, writing, and playing games.<br>
 ● I am interested in game planning and production. I would like to have a job in a related field in the future.<br>
 
-
-<br>
-
 ---
 
 ## 🚀 My Goals  
