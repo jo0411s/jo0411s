@@ -34,7 +34,7 @@ I aim to:
 ## 🛠️ Tech Stack
 
 ### Languages  
-[![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)  [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)  
+[![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)  [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/) [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://www.javascript.com/)
 ✏️I'm still learning so I'm very immature. I would like to learn more diverse languages ​​in depth in the future.
 <br>
 ### Other Programs
@@ -49,7 +49,10 @@ I aim to:
 ## 💻 Projects
 
 ### [🌟 Youtube](https://youtube.com/channel/UCyAD_9F8vwsO40OHKQnltZQ?si=mgn5-Q1oePM7w4Hp)  
- 
+● **Explore! university master**: Daily life introduction video using drone filming. <br>
+● **Jo Min-jeong's Rhythm World**: A self-introduction video parodying the rhythm world. <br>
+● **Puppy on screen**: A simple voice recognition program using JavaScript and Teachable Machine.<br>
+● **bunny land**: A VR game using Cospace.<br>
 
 ---
 
@@ -62,10 +65,10 @@ I aim to:
 ---
 
 ## 🤝 Connect  
-<br>[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:jmj7638s@gmail.com)
-<br>[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/red_mushroom88)
+<br>[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:jmj7638s@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/red_mushroom88)
+<br>
+During my college years, I would like to meet students who share the same goals and form a team to create games together! If you would like to join us, please contact us anytime!
 
- 
 ---
 
  
